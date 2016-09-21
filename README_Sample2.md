@@ -1,9 +1,6 @@
 # Product Name
 > Short blurb about what your product does.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
 
 One to two paragraph statement about your product and what it does.
 
@@ -59,6 +56,4 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 
 [https://github.com/yourname/github-link](https://github.com/dbader/)
 
-[npm-image]: https://fcc.gov
-[npm-url]: https://fcc.gov
-[travis-image]: https://fcc.gov
+
