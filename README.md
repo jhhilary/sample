@@ -18,8 +18,6 @@ Software Name as Headline
 ### Contributors on GitHub
 * [Contributors](https://github.com/username/sw-name/graphs/contributors)
 
-### Translations
-* [Transifex](https://www.transifex.com/projects/p/sw-name/)
 
 ### Third party libraries
 * see [LIBRARIES](https://github.com/username/sw-name/blob/master/LIBRARIES.md) files
