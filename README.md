@@ -11,9 +11,8 @@ Application Name as Headline
 * Other Versions
 * Instructions
 
-## Usage
-```$ git clone https://github.com/username/software-project.git
-...```
+## How-to use this code
+* see [INSTRUCTIONS](https://github.com/username/sw-name/blob/master/INSTRUCTIONS.md) file``
 
 ## Contributors
 
@@ -30,8 +29,6 @@ Application Name as Headline
 ## Version 
 * Version X.Y
 
-## How-to use this code
-* see [INSTRUCTIONS](https://github.com/username/sw-name/blob/master/INSTRUCTIONS.md) file
 
 ## Contact
 #### Developer/Team
