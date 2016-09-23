@@ -9,10 +9,10 @@ Application Name as Headline
  Download
 * [Version X.Y](https://github.com/username/sw-name/archive/master.zip)
 * Other Versions
-* Instructions
+* see [INSTRUCTIONS](https://github.com/username/sw-name/blob/master/INSTRUCTIONS.md) file
 
 ## How-to use this code
-* see [INSTRUCTIONS](https://github.com/username/sw-name/blob/master/INSTRUCTIONS.md) file``
+* see [INSTRUCTIONS](https://github.com/username/sw-name/blob/master/INSTRUCTIONS.md) file
 
 ## Contributors
 
