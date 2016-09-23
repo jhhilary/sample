@@ -6,7 +6,7 @@ Application Name as Headline
 ![Screenshot application](http://url/screenshot-application.png "screenshot application")
 
 ## Setup
- #### Download
+ ## Download
 * [Version X.Y](https://github.com/username/sw-name/archive/master.zip)
 * Other Versions
 
