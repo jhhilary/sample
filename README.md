@@ -9,6 +9,7 @@ Application Name as Headline
  Download
 * [Version X.Y](https://github.com/username/sw-name/archive/master.zip)
 * Other Versions
+* Instructions
 
 ## Usage
 ```$ git clone https://github.com/username/software-project.git
