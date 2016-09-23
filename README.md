@@ -1,11 +1,12 @@
-Software Name as Headline
+Application Name as Headline
 ======
-**Software Name** is a software for things. Short description here.
+**Application Name** is an application for things. Short description here of what the application does.
 
 #### Screenshot
-![Screenshot software](http://url/screenshot-software.png "screenshot software")
+![Screenshot application](http://url/screenshot-application.png "screenshot application")
 
-## Download
+## Setup
+ #### Download
 * [Version X.Y](https://github.com/username/sw-name/archive/master.zip)
 * Other Versions
 
@@ -22,7 +23,7 @@ Software Name as Headline
 ### Third party libraries
 * see [LIBRARIES](https://github.com/username/sw-name/blob/master/LIBRARIES.md) files
 
-## License 
+## License Information
 * see [LICENSE](https://github.com/username/sw-name/blob/master/LICENSE.md) file
 
 ## Version 
@@ -32,8 +33,7 @@ Software Name as Headline
 * see [INSTRUCTIONS](https://github.com/username/sw-name/blob/master/INSTRUCTIONS.md) file
 
 ## Contact
-#### Developer/Company
-* Homepage: 
+#### Developer/Team
 * e-mail: 
 * Twitter: [@twitterhandle](https://twitter.com/twitterhandle "twitterhandle on twitter")
 * other communication/social media
