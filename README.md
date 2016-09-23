@@ -1,18 +1,19 @@
 Application Name as Headline
 ======
-**Application Name** is an application for things. Short description here of what the application does.
+**Application Name** is an application for things. Short description here of what the application does. This section may include who the stakeholders, business owner/unit etc. are.
 
 #### Screenshot
 ![Screenshot application](http://url/screenshot-application.png "screenshot application")
 
-## Setup
+## Setup and How-to use this code
  Download
 * [Version X.Y](https://github.com/username/sw-name/archive/master.zip)
 * Other Versions
-* see [INSTRUCTIONS](https://github.com/username/sw-name/blob/master/INSTRUCTIONS.md) file
+* see [INSTRUCTIONS](https://github.com/username/sw-name/blob/master/INSTRUCTIONS.md) file for instructions to install, configure, and to run the programs
 
-## How-to use this code
-* see [INSTRUCTIONS](https://github.com/username/sw-name/blob/master/INSTRUCTIONS.md) file
+## Change Management
+* See intructions for submitting bugs, feature requests, join mailing lists, get announcements...
+
 
 ## Contributors
 
