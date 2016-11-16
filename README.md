@@ -5,7 +5,7 @@ Application Name as Headline
 #### Screenshot
 ![Screenshot application](http://url/screenshot-application.png "screenshot application")
 
- **System Requirements**: Software name and version 
+## System Requirements Software name and version 
 
 ## Setup and How-to use this code
  Download
