@@ -39,3 +39,5 @@ Application Name as Headline
 * e-mail: 
 * Twitter: [@twitterhandle](https://twitter.com/twitterhandle "twitterhandle on twitter")
 * other communication/social media
+
+## New Line
